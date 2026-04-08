@@ -1,1 +1,2 @@
-my page
+mypage.html
+
